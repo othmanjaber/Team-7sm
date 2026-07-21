@@ -49,19 +49,16 @@
 
 <div align="center">
 
-
 </div>
 
 <tr>
 <td align="center" width="50%">
 
-### Othman Jaber
-![Building journey](other/building%20journey.gif)
-<img src="./t-photos/Othman%20jaber.jpg" width="200" style="border-radius: 70%"/>
-
-**Age:** 16 • **School:** King Talal Secondary School, Nablus
-
-Gmail : <othmanjaber78@gmail.com>
+</td>
+<td align="center" width="50%">
+<h3>Othman Jaber</h3>
+<img src="other\othman.gif" width="390" align="right" alt="Othman Jaber">
+<p> <b>Age:</b> 16</p> <p><b>Email:</b> othmanjaber78@gmail.com</p><p><b>School:</b>King Talal Secondary School</p><p><b>GitHub:</b> <a href="https://github.com/othmanjaber">othmanjaber</a></p><br clear="right"/> <hr> <h3>
 
 ---
 
@@ -69,24 +66,17 @@ Gmail : <othmanjaber78@gmail.com>
 <td align="center" width="50%">
 
 <h3>Rayna Rino</h3>
-<img src="other\gif\IMG_6704.gif" width="390" align="right" alt="Rayna Rino">
+<img src="other\rayan.gif" width="390" align="right" alt="Rayan Rinno">
 <p> <b>Age:</b> 14</p> <p><b>Email:</b> rinoorayan14@gmail.com</p><p><b>School:</b> British Scientific School</p><p><b>GitHub:</b> <a href="https://github.com/rayanrinoo">rayanrinoo</a></p><br clear="right"/> <hr> <h3>
 
 ---
 
-
 </td>
 <td align="center" width="50%">
 
-### Rayan Rinno
-<img src="./t-photos/Hamza%20Darawsheh.jpg" width="200" style="border-radius: 70%"/>
+<h3>Yazan Hindia</h3>
+<img src="other\yazan.gif" width="390" align="right" alt="Yazan Hindia">
+<p> <b>Age:</b> 14</p> <p><b>Email:</b> @gmail.com</p><p><b>School:</b> British Scientific School</p><p><b>GitHub:</b> <a href="https://github.com/kdo3l">Yazan Hindia</a></p><br clear="right"/> <hr> <h3>
 
-**Age:** 15 • **School:** The Islamiah Secondary School, Nablus
-
-short message : Hey there! My name is Hamza, and I'm passionate about robotics and engineering. I enjoy working with electronics and programming, and I'm always excited to tackle new challenges. This WRO competition gives me the perfect opportunity to combine my interests in technology and problem-solving.
-
-Gmail : <hamzadarawsheh321@gmail.com>
-</td>
-</tr>
 
 
