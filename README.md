@@ -83,3 +83,38 @@
 The **[WRO 2026 Future Engineers - Self-Driving Cars](https://wro-association.org/)** challenge invites teams to design, build, and program a robotic vehicle capable of driving autonomously on a racetrack that changes dynamically for each round. The competition includes two main tasks: completing laps while navigating randomized obstacles and successfully performing a precise parallel parking maneuver. Teams must integrate advanced robotics concepts such as computer vision, sensor fusion, and kinematics, focusing on innovation and reliability.
 
 Learn more about the challenge [here](https://wro-association.org/wp-content/uploads/WRO-2025-Future-Engineers-Self-Driving-Cars-General-Rules.pdf).
+
+
+## Our Robot <a class="anchor" id="robot-image"></a>
+
+Here are some pictures of our robot from every side:
+<table>
+<tr>
+<td align="center"><img src="./v-photos/front.png" width="250"/><br/><b>Front</b></td>
+<td align="center"><img src="./v-photos/back.png" width="250"/><br/><b>Back</b></td>
+<td align="center"><img src="./v-photos/left.png" width="250"/><br/><b>Left</b></td>
+</tr>
+<tr>
+<td align="center"><img src="./v-photos/right.png" width="250"/><br/><b>Right</b></td>
+<td align="center"><img src="./v-photos/top.png" width="250"/><br/><b>Top</b></td>
+<td align="center"><img src="./v-photos/bottom.png" width="250"/><br/><b>Bottom</b></td>
+</tr>
+</table>
+</div>
+
+# Mobility Management <a class="anchor" id="mobility-management"></a>
+
+The robot's mobility is managed by a combination of components, including the powertrain, steering system, and chassis. These elements work together to ensure the robot's smooth and efficient movement.
+
+## Powertrain <a class="anchor" id="powertrain-mechanical"></a>
+
+### Drivetrain <a class="anchor" id="drivetrain-mechanical"></a>
+
+Our drivetrain uses a direct drive system where the DC motor is connected directly to the rear axle. The rear wheels are mounted on a common axle for synchronized movement, while the front wheels are mounted independently to allow for steering. This simple but effective design minimizes mechanical complexity while providing reliable propulsion.
+
+**Potential Improvements**:
+- Add a differential system for smoother turning
+- Implement encoder feedback for precise distance measurement
+- Consider gear reduction for better torque control
+
+
