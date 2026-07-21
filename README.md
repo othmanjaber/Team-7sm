@@ -53,25 +53,24 @@
 
 <tr>
 <td align="center" width="50%">
-
 </td>
+
 <td align="center" width="50%">
 <h3>Othman Jaber</h3>
 <img src="other\othman.gif" width="390" align="right" alt="Othman Jaber">
 <p> <b>Age:</b> 16</p> <p><b>Email:</b> othmanjaber78@gmail.com</p><p><b>School:</b>King Talal Secondary School</p><p><b>GitHub:</b> <a href="https://github.com/othmanjaber">othmanjaber</a></p><br clear="right"/> <hr> <h3>
+</td>
 
 ---
 
-</td>
 <td align="center" width="50%">
-
 <h3>Rayan Rinno</h3>
 <img src="other\rayan.gif" width="390" align="right" alt="Rayan Rinno">
 <p> <b>Age:</b> 14</p> <p><b>Email:</b> rinoorayan14@gmail.com</p><p><b>School:</b> British Scientific School</p><p><b>GitHub:</b> <a href="https://github.com/rayanrinoo">rayanrinoo</a></p><br clear="right"/> <hr> <h3>
+</td>
 
 ---
 
-</td>
 <td align="center" width="50%">
 
 <h3>Yazan Hindia</h3>
@@ -79,4 +78,8 @@
 <p> <b>Age:</b> 14</p> <p><b>Email:</b> @gmail.com</p><p><b>School:</b> </p><p><b>GitHub:</b> <a href="https://github.com/kdo3l">Yazan Hindia</a></p><br clear="right"/> <hr> <h3>
 
 
+## The Challenge <a class="anchor" id="challenge"></a>
 
+The **[WRO 2026 Future Engineers - Self-Driving Cars](https://wro-association.org/)** challenge invites teams to design, build, and program a robotic vehicle capable of driving autonomously on a racetrack that changes dynamically for each round. The competition includes two main tasks: completing laps while navigating randomized obstacles and successfully performing a precise parallel parking maneuver. Teams must integrate advanced robotics concepts such as computer vision, sensor fusion, and kinematics, focusing on innovation and reliability.
+
+Learn more about the challenge [here](https://wro-association.org/wp-content/uploads/WRO-2025-Future-Engineers-Self-Driving-Cars-General-Rules.pdf).
