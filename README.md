@@ -65,7 +65,7 @@
 </td>
 <td align="center" width="50%">
 
-<h3>Rayna Rino</h3>
+<h3>Rayan Rinno</h3>
 <img src="other\rayan.gif" width="390" align="right" alt="Rayan Rinno">
 <p> <b>Age:</b> 14</p> <p><b>Email:</b> rinoorayan14@gmail.com</p><p><b>School:</b> British Scientific School</p><p><b>GitHub:</b> <a href="https://github.com/rayanrinoo">rayanrinoo</a></p><br clear="right"/> <hr> <h3>
 
@@ -76,7 +76,7 @@
 
 <h3>Yazan Hindia</h3>
 <img src="other\yazan.gif" width="390" align="right" alt="Yazan Hindia">
-<p> <b>Age:</b> 14</p> <p><b>Email:</b> @gmail.com</p><p><b>School:</b> British Scientific School</p><p><b>GitHub:</b> <a href="https://github.com/kdo3l">Yazan Hindia</a></p><br clear="right"/> <hr> <h3>
+<p> <b>Age:</b> 14</p> <p><b>Email:</b> @gmail.com</p><p><b>School:</b> </p><p><b>GitHub:</b> <a href="https://github.com/kdo3l">Yazan Hindia</a></p><br clear="right"/> <hr> <h3>
 
 
 
