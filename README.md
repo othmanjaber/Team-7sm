@@ -90,14 +90,14 @@ Learn more about the challenge [here](https://wro-association.org/wp-content/upl
 Here are some pictures of our robot from every side:
 <table>
 <tr>
-<td align="center"><img src="./v-photos/front.png" width="250"/><br/><b>Front</b></td>
-<td align="center"><img src="./v-photos/back.png" width="250"/><br/><b>Back</b></td>
-<td align="center"><img src="./v-photos/left.png" width="250"/><br/><b>Left</b></td>
+<td align="center"><img src="./v-photos/front.jpg" width="250"/><br/><b>Front</b></td>
+<td align="center"><img src="./v-photos/back.jpg" width="250"/><br/><b>Back</b></td>
+<td align="center"><img src="./v-photos/left.jpg" width="250"/><br/><b>Left</b></td>
 </tr>
 <tr>
-<td align="center"><img src="./v-photos/right.png" width="250"/><br/><b>Right</b></td>
-<td align="center"><img src="./v-photos/top.png" width="250"/><br/><b>Top</b></td>
-<td align="center"><img src="./v-photos/bottom.png" width="250"/><br/><b>Bottom</b></td>
+<td align="center"><img src="./v-photos/right.jpg" width="250"/><br/><b>Right</b></td>
+<td align="center"><img src="./v-photos/top.jpg" width="250"/><br/><b>Top</b></td>
+<td align="center"><img src="./v-photos/bottom.jpg" width="250"/><br/><b>Bottom</b></td>
 </tr>
 </table>
 </div>
