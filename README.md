@@ -75,7 +75,7 @@
 
 <h3>Yazan Hindia</h3>
 <img src="other\yazan.gif" width="390" align="right" alt="Yazan Hindia">
-<p> <b>Age:</b> 14</p> <p><b>Email:</b> @gmail.com</p><p><b>School:</b> </p><p><b>GitHub:</b> <a href="https://github.com/kdo3l">Yazan Hindia</a></p><br clear="right"/> <hr> <h3>
+<p> <b>Age:</b> 14</p> <p><b>Email:</b> yazanhindia@gmail.com</p><p><b>School:</b> Mahmoud Darwish School </p><p><b>GitHub:</b> <a href="https://github.com/kdo3l">Yazan Hindia</a></p><br clear="right"/> <hr> <h3>
 
 
 ## The Challenge <a class="anchor" id="challenge"></a>
