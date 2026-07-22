@@ -346,3 +346,24 @@ The Pixy2 camera provides advanced computer vision capabilities for color detect
 
 <img src = "schemes/circuit diagram.png">
 
+
+# robot construction guide <a class="anchor" id="robot-construction-guide"></a>
+  ## Step 1: print the 3d parts <a class="anchor" id="3d-printing"></a>
+   this was done using Bambulab P1S 3d printer.
+   | **Video 1** | **Video 2** | **Video 3** |
+|-------------|-------------|-------------|
+| ![](images/video1.png) | ![](images/video2.png) | ![](images/video3.png) |
+
+| **Video 4** | **Video 5** | **Video 6** |
+|-------------|-------------|-------------|
+| ![](images/video4.png) | ![](images/video5.png) | ![](images/video6.png) |
+   
+ 
+  ## Step2: Assemble the steering system <a class="anchor" id="steering-system-assembly"></a>
+  this was done by connecting the wheel adapters with the connector and mounting them with the base using screws.
+  <img src="other/steering.jpeg" width=500 height=500>
+  
+  ## Step 3: Assemble the power train <a class="anchor" id="power-train-assembly"></a>
+  The Arduino is powered by about 7.4 V using two lithium batteries, while the motor driver is powered by three lithium batteries.
+  <img src="other/battery holder.jpeg" width=500 height=500>
+  
