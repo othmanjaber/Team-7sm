@@ -122,7 +122,7 @@ Our drivetrain uses a DC motor that transfers power to the rear axle through an 
 <table>
   <tr>
     <td width="50%" style="text-align: left;">
-      <img src="./other/repository%20images/dc%20motor.jpg" alt="DC Motor" width="100%">
+      <img src="./other/repository%20images/ga25-371.jpg" alt="DC Motor" width="100%">
     </td>
     <td width="50%" style="text-align: left; vertical-align: top;">
       <h3>Specifications:</h3>
@@ -147,7 +147,7 @@ A standard DC gearmotor was selected for its simplicity, reliability, and abilit
 <table>
   <tr>
     <td width="50%" style="text-align: left;">
-      <img src="other/repository%20images/motor%20driver.jpg" alt="L298N Motor Driver" width="100%">
+      <img src="other/repository%20images/l298n.jpg" alt="L298N Motor Driver" width="100%">
     </td>
     <td width="50%" style="text-align: left; vertical-align: top;">
       <h3>Specifications:</h3>
@@ -186,7 +186,7 @@ Our steering system uses an Ackermann steering mechanism for improved turning pe
 <table>
   <tr>
     <td width="50%" style="text-align: left;">
-      <img src="./other/repository%20images/servo.jpg" alt="Servo Motor" width="100%">
+      <img src="./other/repository%20images/mg996r.jpg" alt="Servo Motor" width="100%">
     </td>
     <td width="50%" style="text-align: left; vertical-align: top;">
       <h3>Specifications:</h3>
@@ -219,7 +219,7 @@ The robot's power and sensor management system consists of several components wo
 <table>
   <tr>
     <td width="50%" style="text-align: left;">
-      <img src="./other/repository%20images/battery.png" alt="Power Supply" width="100%">
+      <img src="./other/repository%20images/li%20ion%20battery.jpg" alt="Power Supply" width="100%">
     </td>
     <td width="50%" style="text-align: left; vertical-align: top;">
       <h3>Specifications:</h3>
@@ -321,7 +321,7 @@ The US100 ultrasonic sensor uses sound waves to measure distance by calculating 
 <table>
   <tr>
     <td width="50%" style="text-align: left;">
-      <img src="./other/repository%20images/pixy2.png" alt="Pixy2" width="100%">
+      <img src="./other/repository%20images/pixy2.jpg" alt="Pixy2" width="100%">
     </td>
     <td width="50%" style="text-align: left; vertical-align: top;">
       <h3>Specifications:</h3>
