@@ -168,10 +168,6 @@ We use the L298N motor driver to control both the drive motor and servo motor. T
 - Use more efficient motor driver with lower voltage drop
 
 
-to mount the motor driver we made this 3d design: 
-
-<img src="other/repository images/motor driver holder.png">
-
 ## Steering <a class="anchor" id="steering-mechanical"></a>
 
 Our steering system uses an Ackermann steering mechanism for improved turning performance. The front wheels are controlled by a servo motor connected through a mechanical linkage designed to provide different steering angles for the inner and outer wheels during a turn. This reduces tire slipping and allows the robot to follow smoother and more accurate turning paths.
