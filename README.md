@@ -354,7 +354,7 @@ The Pixy2 camera provides advanced computer vision capabilities for color detect
 
 | **Video 4** | **Video 5** |
 |-------------|-------------|
-| ![](images/video4.png) | ![](images/video5.png)|
+| ![](other/repository%20images/gears_and_bearings.gif) | ![](other/repository%20images/raspberry%20holder,%20pixy%20holder%20&%203rd%20floor.gif)|
    
  
   ## Step2: Assemble the steering system <a class="anchor" id="steering-system-assembly"></a>
