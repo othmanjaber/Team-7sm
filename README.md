@@ -352,9 +352,9 @@ The Pixy2 camera provides advanced computer vision capabilities for color detect
 |-------------|-------------|-------------|
 | ![](images/video1.png) | ![](images/video2.png) | ![](images/video3.png) |
 
-| **Video 4** | **Video 5** | **Video 6** |
-|-------------|-------------|-------------|
-| ![](images/video4.png) | ![](images/video5.png) | ![](images/video6.png) |
+| **Video 4** | **Video 5** |
+|-------------|-------------|
+| ![](images/video4.png) | ![](images/video5.png)|
    
  
   ## Step2: Assemble the steering system <a class="anchor" id="steering-system-assembly"></a>
