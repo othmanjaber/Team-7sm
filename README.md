@@ -352,7 +352,7 @@ The Pixy2 camera provides advanced computer vision capabilities for color detect
 |-------------|-------------|-------------|
 | ![](images/video1.png) | ![](images/video2.png) | ![](images/video3.png) |
 
-| **Video 4** | **Video 5** |
+| **gears and bearings** | **raspberry holder, pixy holder & 3rd floor** |
 |-------------|-------------|
 | ![](other/repository%20images/gears_and_bearings.gif) | ![](other/repository%20images/raspberry%20holder,%20pixy%20holder%20&%203rd%20floor.gif)|
    
