@@ -348,14 +348,44 @@ The Pixy2 camera provides advanced computer vision capabilities for color detect
 # robot construction guide <a class="anchor" id="robot-construction-guide"></a>
   ## Step 1: print the 3d parts <a class="anchor" id="3d-printing"></a>
    this was done using Bambulab P1S 3d printer.
-   | **Video 1** | **Video 2** | **Video 3** |
-|-------------|-------------|-------------|
-| ![](images/video1.png) | ![](images/video2.png) | ![](images/video3.png) |
 
-| **gears and bearings** | **raspberry holder, pixy holder & 3rd floor** |
-|-------------|-------------|
-| ![](other/repository%20images/gears_and_bearings.gif) | ![](other/repository%20images/raspberry%20holder,%20pixy%20holder%20&%203rd%20floor.gif)|
-   
+
+
+<table>
+  <tr>
+    <th>Video 1</th>
+    <th>Video 2</th>
+    <th>Video 3</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/video1.png" width="300">
+    </td>
+    <td align="center">
+      <img src="images/video2.png" width="300">
+    </td>
+    <td align="center">
+      <img src="images/video3.png" width="300">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <th>Gears and Bearings</th>
+    <th>Raspberry Holder, Pixy Holder &amp; 3rd Floor</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="other/repository%20images/gears_and_bearings.gif" width="400">
+    </td>
+    <td align="center">
+      <img src="other/repository%20images/raspberry%20holder,%20pixy%20holder%20&amp;%203rd%20floor.gif" width="400">
+    </td>
+  </tr>
+</table>
  
   ## Step2: Assemble the steering system <a class="anchor" id="steering-system-assembly"></a>
   this was done by connecting the wheel adapters with the connector and mounting them with the base using screws.
